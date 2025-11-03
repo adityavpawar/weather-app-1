@@ -5,7 +5,6 @@ A simple and clean **single-page weather application** that allows users to sear
 ---
 
 ## Features
-
 - Search for any city using the search bar.
 - Fetch real-time weather data using **OpenWeatherMap API**.
 - Display **current temperature, weather conditions, and humidity**.
